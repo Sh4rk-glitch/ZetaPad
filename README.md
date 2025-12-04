@@ -51,6 +51,7 @@ Full Schematic:
 <img width="1694" height="1175" alt="image" src="https://github.com/user-attachments/assets/ea4998f8-1b22-42ee-8cd5-8f8c8fe6ce73" />
 
 Full PCB:
+
 <img width="838" height="859" alt="image" src="https://github.com/user-attachments/assets/bd32a32d-b966-494a-a773-b329cfe0333a" />
 
 Bill of Materials:
