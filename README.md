@@ -45,4 +45,22 @@ License
 #Images
 
 Overall Hackpad:
-<img width="1024" height="898" alt="image" src="https://github.com/user-attachments/assets/d126d55e-35dd-490f-8c0d-659dfe155de0" />
+<img width="1521" height="877" alt="image" src="https://github.com/user-attachments/assets/6e7face1-98cf-42af-bbbf-c14053cc8be1" />
+
+Full Schematic:
+<img width="1694" height="1175" alt="image" src="https://github.com/user-attachments/assets/ea4998f8-1b22-42ee-8cd5-8f8c8fe6ce73" />
+
+Full PCB:
+<img width="838" height="859" alt="image" src="https://github.com/user-attachments/assets/bd32a32d-b966-494a-a773-b329cfe0333a" />
+
+Bill of Materials:
+8 Key caps, 4 WASD and 4 ARROW KEY ones (interchangable)
+One XIAO RP2040 
+TWO rotary encoders, incase one gets messed up or one more for future improvements
+One LCD Screen (also for future improvements such as a status update showing users cpu usage, gpu usage, etc)
+12 CHERRY MX-Style switches 
+SK6812 MINI-E LEDs (4, for future improvements, one for charging, one for charged, one for num lock, one for caps)
+M3x16mm screws (x16)
+M3x5mx4mm heatset inserts (x16)
+One 3D Printer
+One Saughtering Machine
