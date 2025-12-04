@@ -55,13 +55,13 @@ Full PCB:
 <img width="838" height="859" alt="image" src="https://github.com/user-attachments/assets/bd32a32d-b966-494a-a773-b329cfe0333a" />
 
 Bill of Materials:
--8 Key caps, 4 WASD and 4 ARROW KEY ones (interchangable)
--One XIAO RP2040 
--TWO rotary encoders, incase one gets messed up or one more for future improvements
--One LCD Screen (also for future improvements such as a status update showing users cpu usage, gpu usage, etc)
--12 CHERRY MX-Style switches 
--SK6812 MINI-E LEDs (4, for future improvements, one for charging, one for charged, one for num lock, one for caps)
--M3x16mm screws (x16)
--M3x5mx4mm heatset inserts (x16)
--One 3D Printer
--One Saughtering Machine
+- 8 Key caps, 4 WASD and 4 ARROW KEY ones (interchangable)
+- One XIAO RP2040 
+- TWO rotary encoders, incase one gets messed up or one more for future improvements
+- One LCD Screen (also for future improvements such as a status update showing users cpu usage, gpu usage, etc)
+- 12 CHERRY MX-Style switches 
+- SK6812 MINI-E LEDs (4, for future improvements, one for charging, one for charged, one for num lock, one for caps)
+- M3x16mm screws (x16)
+- M3x5mx4mm heatset inserts (x16)
+- One 3D Printer
+- One Saughtering Machine
