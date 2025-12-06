@@ -1,4 +1,4 @@
-# XIAO RP2040 Macropad (WASD + Volume Encoder)
+# ZetaPad
 
 Small CircuitPython firmware for a 4-key macropad (W, A, S, D) and a rotary encoder for system volume control. Designed for Seeed XIAO RP2040 but pins can be changed.
 
