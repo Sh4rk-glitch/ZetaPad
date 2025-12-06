@@ -42,7 +42,7 @@ Troubleshooting
 License
 - Use/modify freely for personal projects.
 
-#Images
+# Images
 
 Overall Hackpad:
 <img width="1521" height="877" alt="image" src="https://github.com/user-attachments/assets/6e7face1-98cf-42af-bbbf-c14053cc8be1" />
